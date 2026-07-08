@@ -67,24 +67,25 @@ const projects = [
   {
     title: "Technology for Healthcare",
     year: "Semester 4 / 2025",
-    category: ["Healthcare", "Mechatronics"],
-    summary: "Healthcare-technology semester combining a tendon-driven surgical manipulator design project with identification and control of a flexure-based precision motion stage.",
-    tools: ["FEM", "Precision Engineering", "3D Printing", "System Identification", "Control Design", "Sensors"],
-    challenge: "Apply mechanical design, precision engineering, modelling, experimental validation, and control theory to healthcare-oriented devices.",
-    outcome: "Connected patent research, compliant mechanism design, FEM, prototyping, system identification, frequency-response estimation, controller design, discretization, simulation, and validation.",
+    category: "Healthcare",
+    summary: "Healthcare-technology project focused on designing a tendon-driven surgical manipulator for minimally invasive surgery.",
+    tools: ["FEM", "Precision Engineering", "3D Printing", "Patent Research", "Stiffness Testing"],
+    challenge: "Apply mechanical design, precision engineering, modelling, and experimental validation to a healthcare-oriented surgical device.",
+    outcome: "Connected patent research, compliant mechanism design, FEM, prototyping, and stiffness-testing preparation for a compact tendon-driven manipulator.",
     parts: [
       {
         label: "Part A",
         title: "Tendon-Driven Surgical Manipulator",
         summary: "Designed a compact cable-driven robotic manipulator concept for minimally invasive surgery within strict length, diameter, stiffness, and safety constraints.",
         outcome: "Combined patent research, compliant mechanism design, finite-element analysis, prototyping, and stiffness-testing preparation."
-      },
-      {
-        label: "Part B",
-        title: "Flexure-Based Motion Stage Control",
-        summary: "Modelled a precision flexure-based motion stage, estimated dynamic behaviour, and designed a controller for implementation and validation.",
-        outcome: "Worked through step and sine tests, frequency-response estimation, uncertainty modelling, controller design, discretization, simulation, and validation."
       }
+      // Hidden Part B entry:
+      // {
+      //   label: "Part B",
+      //   title: "Flexure-Based Motion Stage Control",
+      //   summary: "Modelled a precision flexure-based motion stage, estimated dynamic behaviour, and designed a controller for implementation and validation.",
+      //   outcome: "Worked through step and sine tests, frequency-response estimation, uncertainty modelling, controller design, discretization, simulation, and validation."
+      // }
     ],
     art: "surgical"
   },
