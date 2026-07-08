@@ -87,6 +87,21 @@ const projects = [
       //   outcome: "Worked through step and sine tests, frequency-response estimation, uncertainty modelling, controller design, discretization, simulation, and validation."
       // }
     ],
+    // Hidden parts entries:
+    // parts: [
+    //   {
+    //     label: "Part A",
+    //     title: "Tendon-Driven Surgical Manipulator",
+    //     summary: "Designed a compact cable-driven robotic manipulator concept for minimally invasive surgery within strict length, diameter, stiffness, and safety constraints.",
+    //     outcome: "Combined patent research, compliant mechanism design, finite-element analysis, prototyping, and stiffness-testing preparation."
+    //   },
+    //   {
+    //     label: "Part B",
+    //     title: "Flexure-Based Motion Stage Control",
+    //     summary: "Modelled a precision flexure-based motion stage, estimated dynamic behaviour, and designed a controller for implementation and validation.",
+    //     outcome: "Worked through step and sine tests, frequency-response estimation, uncertainty modelling, controller design, discretization, simulation, and validation."
+    //   }
+    // ],
     art: "surgical"
   },
   {
