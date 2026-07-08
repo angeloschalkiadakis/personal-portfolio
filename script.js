@@ -72,7 +72,7 @@ const projects = [
     tools: ["FEM", "Precision Engineering", "3D Printing", "Patent Research", "Stiffness Testing"],
     challenge: "Apply mechanical design, precision engineering, modelling, and experimental validation to a healthcare-oriented surgical device.",
     outcome: "Connected patent research, compliant mechanism design, FEM, prototyping, and stiffness-testing preparation for a compact tendon-driven manipulator.",
-    // Hidden parts entries:
+    /*// Hidden parts entries:
     // parts: [
     //   {
     //     label: "Part A",
@@ -86,7 +86,7 @@ const projects = [
     //     summary: "Modelled a precision flexure-based motion stage, estimated dynamic behaviour, and designed a controller for implementation and validation.",
     //     outcome: "Worked through step and sine tests, frequency-response estimation, uncertainty modelling, controller design, discretization, simulation, and validation."
     //   }
-    // ],
+    // ],*/
     art: "surgical"
   },
   {
